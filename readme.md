@@ -5,3 +5,5 @@
 
 # Building
 - `webpack`
+
+Browse to /path/to/your/tsreact/index.html
