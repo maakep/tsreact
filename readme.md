@@ -1,9 +1,7 @@
 # Installing
 - `npm install`
-- `npm install -g webpack`
-
 
 # Building
-- `webpack`
+- `npm run build`
 
 Browse to /path/to/your/tsreact/index.html
